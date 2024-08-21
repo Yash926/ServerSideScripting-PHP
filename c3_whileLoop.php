@@ -6,9 +6,16 @@ $i=1;
 // }
 
 // do while
-do{
-    $i++;
-    echo "the number is $i <br>";
+// do{
+//     $i++;
+//     echo "the number is $i <br>";
+// }
+// while($i<=3);
+
+//For each loop
+
+$colors=array("red","green","blue");
+foreach($colors as $value)
+{echo "$value <br>";
 }
-while($i<=3);
 ?>
