@@ -1,10 +1,10 @@
 # PHP
 ## c4-Control Structures<br>
-#for loop  <br>
-#while loop <br>
-#for each loop <br>
-#dowhile loop <br>
-#break statement
+for loop  <br>
+while loop <br>
+for each loop <br>
+dowhile loop <br>
+break statement
 
 ## Arrays
 Arrays are complex variables that allows us to store more than one value or a group of values under single variable name.
