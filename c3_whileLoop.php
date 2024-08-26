@@ -18,4 +18,15 @@ $colors=array("red","green","blue");
 foreach($colors as $value)
 {echo "$value <br>";
 }
+
+//break
+
+for($i=1;$i<=10;$i++)
+{
+    echo "$i <br>";
+    if($i==5)
+    {
+        break;
+    }
+}
 ?>
