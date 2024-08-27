@@ -4,7 +4,12 @@ Xampp server installation.<br>
 Basic Introduction of PHP.<br>
 Basic Program to understand syntaxes
 ## c2
-
+<ul>
+<li>for loop and If-else
+<li>Operators in PHP<br>
+<li>Use and difference between single and double quote<br>
+<li>Type casting
+</ul>
 ## c4-Control Structures<br>
 for loop  <br>
 while loop <br>
