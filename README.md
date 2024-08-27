@@ -1,7 +1,7 @@
 # PHP
 ## c1
-Xampp server installation.
-Basic Introduction of PHP.
+Xampp server installation.<br>
+Basic Introduction of PHP.<br>
 Basic Program to understand syntaxes
 ## c2
 
