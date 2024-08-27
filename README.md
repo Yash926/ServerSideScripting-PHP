@@ -1,4 +1,10 @@
 # PHP
+## c1
+Xampp server installation.
+Basic Introduction of PHP.
+Basic Program to understand syntaxes
+## c2
+
 ## c4-Control Structures<br>
 for loop  <br>
 while loop <br>
