@@ -15,7 +15,7 @@ break statement
 ## Arrays
 Arrays are complex variables that allows us to store more than one value or a group of values under single variable name.
 
-### Array Operations
+## Array Operations
 Create Array<br>
 Access Array<br>
 Update Array<br>
@@ -23,7 +23,7 @@ Add Array items<br>
 Remove Array items<br>
 Sort array
 
-### Types of Array
+## Types of Array
 
 Arrays are of three types<br>
 Indexed Array<br>
