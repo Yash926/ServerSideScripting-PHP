@@ -35,5 +35,11 @@ Indexed Array<br>
 Associative Array<br>
 Multidimensional Array Array<br>
 
+## Array functions
+<ol>
+<li>Array_Combine-combines 2 arrays into a third array.
+<li>Array_Chunk-splits an array into chunks of new arrays.
+<li>Array_Count_values-function counts all the values of an array.
+<li>Array_diff
 
 
