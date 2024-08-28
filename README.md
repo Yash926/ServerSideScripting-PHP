@@ -41,5 +41,14 @@ Multidimensional Array Array<br>
 <li>Array_Chunk-splits an array into chunks of new arrays.
 <li>Array_Count_values-function counts all the values of an array.
 <li>Array_diff
+<li>Array_flip-function flips/exchanges all keys with their associated values in an array.
+<li>Array_intersect-function compares the values of 2 or more arrays, and returns the matches.
+<li>Array_POP-function deletes the last element of an array.
+<li>Array_reverse-returns an array in the reverse order.
+<li>Array_slice()-function returns selected parts of an array.
+</ol>
+
+## Functions
+A function is a self-contained block of code to perform a specific task.
 
 
