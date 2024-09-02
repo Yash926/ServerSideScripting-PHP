@@ -1,7 +1,7 @@
 <?php
 //indexed Array
 $courses=array("PHP","Laravel","Node.js","C++","Java");
-// echo "I Like "$courses[0].;
+echo "I Like "$courses[0].".".$courses[1]." and". $courses[2 ];
 $courses_length=count($courses);
 for($x=0;$x<$courses_length;$x++)
 {
@@ -19,5 +19,16 @@ $course2["INT221"]="Laravel";
 $course2["INT222"]="Node js";
 echo "<br>";
 print_r($course2);
+
+//MultiDimensional Array
+// $result=array(
+//     array("Manoj",7.8,"Pass"),
+//     array("Aditya",8.8,"Pass"),
+//     array("Anuj",4.9,"Pass"),
+// );$
+
 ?>
+
+
+
 
