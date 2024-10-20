@@ -10,9 +10,9 @@
         $email = $_POST["email"];
         $pattern = "/^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/";
         if(preg_match($pattern, $email)) {
-            echo "Valid email address.";
+            echo "Valid email address.<br>";
         } else {
-            echo "Invalid email address.";
+            echo "Invalid email address.<br>";
         }
         
         ?>
