@@ -98,7 +98,7 @@
 // $s="Yash";
 // countchars($s); -->
 
-<?php
+<?php 
 // $a=array(
 //     array(1,2,3),
 //     array(4,5,6),
@@ -209,15 +209,17 @@
 
 
 
-function invertedHalfPyramid($n) {
-    for ($i = $n; $i >= 1; $i--) {
-        for ($j = 1; $j <= $i; $j++) {
-            echo $j . " ";
-        }
-        echo "<br>";
-    }
-}
+// function invertedHalfPyramid($n) {
+//     for ($i = $n; $i >= 1; $i--) {
+//         for ($j = 1; $j <= $i; $j++) {
+//             echo $j . " ";
+//         }
+//         echo "<br>";
+//     }
+// }
 
-invertedHalfPyramid(5);
-?>
+// invertedHalfPyramid(5);
+// ?>
+
+
 
